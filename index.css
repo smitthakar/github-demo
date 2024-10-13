@@ -3,6 +3,11 @@
     height: 50px;
     background-color: brown;
     margin-left: 20%;
+    padding-top: 20px;
+    padding-bottom: 1px;
+    font-size: larger;
+    color: khaki;
+    border-radius: 20%;
     text-align: center; 
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
